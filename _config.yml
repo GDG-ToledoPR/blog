@@ -19,8 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Este é o blog do GDG Toledo PR, com conteúdos escritos pelos membros do Google Developer Group de Toledo - Paraná
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
-github_username:  ""
+github_username:  "GDG-ToledoPR"
 
 # Build settings
 markdown: kramdown
