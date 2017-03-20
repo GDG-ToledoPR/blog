@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
+# Blog GDG Toledo PR
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Este é um blog colaborativo gerado através do jekyll. Você pode contribuir, com artigos, sugestões, correções ou críticas através do nosso [repositório](https://github.com/GDG-ToledoPR/gdg-toledopr.github.io) no github.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Deseja sugerir outro tema? Participe da discussão nessa [issue](https://github.com/GDG-ToledoPR/gdg-toledopr.github.io/issues/1)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+ * [Facebook](https://www.facebook.com/groups/cakebrasil/)
+ * [Slack](http://slack.gdgtoledorpr.com.br/) Não tem cadastro? Solicite seu [convite](http://gdgtoledopr.herokuapp.com)
+ * [Grupo do Whatsapp](https://chat.whatsapp.com/0xnRJVwNZ3BLCdLfC9n0x9)
+ * [Meetup](https://www.meetup.com/pt-BR/GDG-Toledo-PR/)

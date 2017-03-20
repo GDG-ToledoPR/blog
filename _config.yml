@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: GDG Toledo PR
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Este é o blog do GDG Toledo PR, com conteúdos escritos pelos membros do Google Developer Group de Toledo - Paraná
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,3 +30,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+disqus:
+  shortname: gdgtoledopr-org
